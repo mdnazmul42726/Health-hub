@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Primary Care",
+        "sub_title": "Primary care services are provided by general practitioners, family doctors, and nurse practitioners. They offer routine medical care, preventive services, and treatment for common illnesses and injuries.  ",
+        "description": "Preventive Care: Routine check-ups and screenings to assess overall health, detect early signs of diseases, and administer vaccinations. Routine check-ups and screenings to assess overall health, detect early signs of diseases, and administer vaccinations. Diagnosis and treatment of common illnesses like colds, flu, infections, and minor injuries. Management of chronic conditions such as diabetes, hypertension, and asthma through medication and lifestyle guidance. Providing patients with information and guidance on maintaining a healthy lifestyle, diet, and exercise.",
+        "image": "https://i.ibb.co/jMntM7R/1.jpg",
+        "price": "425"
+    },
+    {
+        "id": "2",
+        "title": "Specialist Medical",
+        "sub_title": "Specialist services involve healthcare professionals who focus on specific areas of medicine, such as cardiology, dermatology, neurology, and more. Patients are referred to specialists for in-depth evaluation and treatment of specific health conditions.",
+        "description": "Specialist medical services involve healthcare professionals who have advanced training and expertise in specific areas of medicine. Patients are typically referred to specialists by their primary care physicians when more specialized care is needed. Examples of specialist fields include: Diagnosis and treatment of heart-related conditions.  Evaluation and treatment of skin disorders. Management of disorders related to the nervous system. Treatment of musculoskeletal conditions and injuries. Care for gastrointestinal and digestive system disorders.",
+        "image": "https://i.ibb.co/j481RMj/2.jpg",
+        "price": "761"
+    },
+    {
+        "id": "3",
+        "title": "Mental Health",
+        "sub_title": "Mental health services encompass a wide range of treatments and support for individuals experiencing mental health issues. This includes therapy, counseling, psychiatric services, and crisis intervention.",
+        "description": "Mental health services focus on addressing individuals' emotional and psychological well-being. They can include: Talk therapy sessions with licensed therapists or counselors to address mental health issues and emotional challenges. Diagnosis and management of mental disorders using medications and therapy. Immediate support and intervention for individuals experiencing severe emotional distress or psychiatric crises.  Group sessions where individuals with similar mental health issues can share experiences and coping strategies.",
+        "image": "https://i.ibb.co/mhd9w89/3.jpg",
+        "price": "362"
+    },
+    {
+        "id": "4",
+        "title": "Emergency Medical",
+        "sub_title": "EMS provides immediate medical care and transportation in emergency situations. This includes ambulance services, paramedics, and rapid response teams for critical injuries and medical emergencies.",
+        "description": "EMS provides rapid medical care and transportation in emergency situations. Services and components of EMS include: Rapid transportation of patients to hospitals or medical facilities. Highly trained professionals who provide advanced medical care at the scene of an emergency. ndividuals trained to provide immediate assistance until professional EMS arrives. Specialized care for traumatic injuries, such as those resulting from accidents or violence.",
+        "image": "https://i.ibb.co/tcZpcBx/4.jpg",
+        "price": "987"
+    },
+    {
+        "id": "5",
+        "title": "Preventive Health",
+        "sub_title": "Preventive health services aim to keep individuals healthy and prevent illness through measures like vaccinations, health screenings, and lifestyle counseling. These services are designed to catch potential health issues early.",
+        "description": "Preventive health services are aimed at keeping individuals healthy and preventing the onset of diseases. They include: Administration of vaccines to protect against infectious diseases. Regular check-ups, blood tests, and screenings to detect early signs of conditions like cancer, diabetes, and heart disease. Providing information and guidance on lifestyle choices, nutrition, and exercise to maintain overall health.",
+        "image": "https://i.ibb.co/w6QG1S4/5.jpg",
+        "price": "564"
+    },
+    {
+        "id": "6",
+        "title": "Rehabilitation ",
+        "sub_title": "Rehabilitation services help individuals recover from injuries, surgeries, or chronic conditions. This includes physical therapy, occupational therapy, speech therapy, and other specialized therapies to improve mobility, function, and quality of life.",
+        "description": "Rehabilitation services help individuals recover and regain their functional abilities after injuries, surgeries, or chronic conditions. These services may include: Exercises and techniques to improve mobility, strength, and function.  Strategies to improve daily living skills and adapt to disabilities.  Strategies to improve daily living skills and adapt to disabilities.  Exercise and education programs for heart disease patients.",
+        "image": "https://i.ibb.co/vhw0GYh/6.jpg",
+        "price": "897"
+    }
+]
